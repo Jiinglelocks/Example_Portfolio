@@ -7,4 +7,4 @@ Example portfolio site
 * Reads an input text file to create the "environment".
 * Includes rudimentary GUI
 * 
-![](https://github.com/Jiinglelocks/Example_Portfolio/blob/main/images/placeholder.png)
+![](/images/placeholder.png)
