@@ -6,5 +6,4 @@ Example portfolio site
 * Makes use of a Classes within a custom module called "agentframework".
 * Reads an input text file to create the "environment".
 * Includes rudimentary GUI
-* 
 ![](/images/placeholder.png)
