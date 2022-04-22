@@ -20,7 +20,6 @@
 * Makes use of BeautifulSoup webscraping to initialise agents/predators x and y values from [this data](https://jiinglelocks.github.io/Agent-based-modelling/Model/data2.html)
 * Agents move freely around a torus environment, eating from it, sharing resources and reproducing.
 * Includes rudimentary GUI.
-![](/images/placeholder.png)
 ![](https://github.com/Jiinglelocks/Agent-based-modelling/blob/main/placeholder.png)
 
 
