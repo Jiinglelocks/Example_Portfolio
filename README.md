@@ -1,6 +1,9 @@
 # Initial coding portfolio
+# Alex Camilleri BSc (Hons)
 * Here is the initial draft of my coding portfolio site.
-* It contains just one project for now: agent-based modelling.
+* It contains just one project for now: agent-based modelling, which was created during the 'Programming for Geographic Information Analysis' module as part of my Geographic Information Science MSc at the University of Leeds.
+* This represents a significant step in my understanding of how GIS software works, how computers work and how to leverage their potential through programming.
+* The start of a very rewarding journey.
 
 # [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling)
 * Skills:
