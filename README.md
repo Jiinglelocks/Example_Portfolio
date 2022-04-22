@@ -5,7 +5,7 @@
 * This represents a significant step in my understanding of how GIS software works, how computers work and how to leverage their potential through programming.
 * The start of a very rewarding journey.
 
-# [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling/tree/main/Model)
+# [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling/tree/main/Model) (click to go to source code)
 Description:
 * Generate agents and predators on a digital elevation model
 * Agents eat from the landscape, share resources between them if close to eachother.
