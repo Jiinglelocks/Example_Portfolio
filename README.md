@@ -21,5 +21,6 @@
 * Agents move freely around a torus environment, eating from it, sharing resources and reproducing.
 * Includes rudimentary GUI.
 ![](/images/placeholder.png)
+![](https://github.com/Jiinglelocks/Agent-based-modelling/blob/main/placeholder.png)
 
 
