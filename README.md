@@ -6,14 +6,14 @@
 * The start of a very rewarding journey.
 
 # [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling/tree/main/Model)
-* Skills:
+Skills:
 * Learned in-depth python functionality; loops, list/2d lists, slicers, conditionals, functions, read/write files to directory
 * Created classes with methods and sub-classes making use of inheritence,
 * Plotted results in single frame and animated format
 * Created an interface using Tkinter
 * Webscraped data to intitialise the model
 
-* Notes:
+Notes:
 * Uses two script files which should be placed in the same directory, as well as a 300x300 grid of CSV's in .txt format. 
 * Agentframework.py contains an environment generating function, an Agent superclass and a Predator sub-class
 * Model.py is where the model should be run from.
