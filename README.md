@@ -8,6 +8,7 @@
 
 # [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling/tree/main/Model) (click to go to source code)
 Description:
+* For Assignment 1
 * Generate agents and predators on a digital elevation model
 * Agents eat from the landscape, share resources between them if close to eachother.
 * These resources are stored in their energy stores, which are depleted as they move (and vomited if they eat too much!)
