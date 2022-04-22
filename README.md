@@ -5,7 +5,7 @@
 * This represents a significant step in my understanding of how GIS software works, how computers work and how to leverage their potential through programming.
 * The start of a very rewarding journey.
 
-# [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling)
+# [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling/tree/main/Model)
 * Skills:
 * Learned in-depth python functionality; loops, list/2d lists, slicers, conditionals, functions, read/write files to directory
 * Created classes with methods and sub-classes making use of inheritence,
