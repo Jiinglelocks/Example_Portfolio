@@ -7,7 +7,7 @@
 
 # [Project 1: Agent-based model](https://github.com/Jiinglelocks/Agent-based-modelling/tree/main/Model)
 Skills:
-* Learned in-depth python functionality; loops, list/2d lists, slicers, conditionals, functions, read/write files to directory
+* Learned in-depth python functionality; loops, list/2d lists, slicers, conditionals, functions, read/write files to directory and into functions/classes
 * Created classes with methods and sub-classes making use of inheritence,
 * Plotted results in single frame and animated format
 * Created an interface using Tkinter
